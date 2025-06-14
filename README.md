@@ -28,4 +28,4 @@
 
 ## 📫 Connect
 
-I’m happy to learn and collaborate — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/chandan-kumar-898a8b8a/)  
+
