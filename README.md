@@ -1,31 +1,33 @@
-# 👋 Hi, I’m Dexter
+# Hi, I’m Dexter 👋
 
-🔹 Cybersecurity professional focused on **threat hunting**, **detection engineering**, and **blue team operations** — with a mindset to understand and think like an attacker.
-
----
-
-## 💻 What I’m working on
-
-- Studying **Windows process injection techniques** and their detection (APC, EarlyBird, memory stomping, etc).
-- Exploring **cloud security fundamentals** across Azure, AWS, and GCP.
-- Building detection logic and use cases for **SIEM** and **EDR**.
-- Learning about **red team tactics** to improve blue team detection (evasion techniques, C2 infrastructure).
+🔹 Cybersecurity professional with 7.5+ years of experience in **threat hunting, detection engineering, and blue team operations** — with an attacker’s mindset to strengthen defenses.
 
 ---
 
-## 📝 What’s in this GitHub
-
-- Process injection technique notes and detection logic
-- Windows API concepts related to injection
-- Red team tactics studied for defensive detection
-- SIEM/EDR use case ideas (e.g., KQL queries)
-- Tools, blogs, and resources I’ve found helpful
+## 💻 Current Focus
+- 🛡️ Studying **Windows process injection techniques** and their detection (APC, EarlyBird, process ghosting, etc.)  
+- ☁️ Hands-on **AWS threat hunting** (CloudTrail investigations, S3, IAM, EDR integration)  
+- 🤖 Experimenting with **AI-assisted threat hunting** using local LLMs (Ollama + Mistral) to analyze Sysmon & Security logs  
+- 🎭 Learning **red team tactics** (EDR evasion, C2 frameworks, persistence techniques) to improve defensive detections  
 
 ---
 
+## 📝 What You’ll Find in My GitHub
+- 📚 **Process injection notes** with detection logic and Windows API examples  
+- ☁️ **AWS hunting labs** (CloudTrail log analysis, detection queries, incident investigations)  
+- 🤖 **AI-assisted SOC experiments** (Sysmon + Security logs → LLM → SOC-style summaries)  
+- 🎯 **Red team tactics & evasion** studied and mapped to MITRE ATT&CK for blue team readiness  
+- 📊 **SIEM/EDR detection use cases** (Splunk queries, KQL, Sigma rules)  
 
 ---
 
-## 📫 Connect
+## 📌 Goals
+- Share **end-to-end detection playbooks**  
+- Build practical **cloud + endpoint hunting cases**  
+- Explore how **AI can reduce SOC triage time** and highlight attacker techniques  
 
+---
 
+## 🌐 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 📂 GitHub: [Your GitHub Profile]  
